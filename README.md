@@ -26,12 +26,6 @@
 
 4. กดปุ่มบันทึกข้อมูล
 
-Download ตัวอย่าง Code เติมเงิน สำหรับ Server Game Online
-Download Click ที่นี่
-ตัวอย่างการ config Click ที่นี่
-Download ตัวอย่าง Code เติมเงิน สำหรับ Server ทั่วไป
-Click ที่นี่
-ตัวอย่างรายการที่ทำการเติมเงินผ่าน fikcook.com
 
- 
+
 
